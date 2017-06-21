@@ -1,0 +1,47 @@
+/* 
+  Localizable.strings
+  WatchDogTimer
+
+  Created by Takuya Suenaga on 2014/06/03.
+  Copyright (c) 2014年 Takuya Suenaga. All rights reserved.
+*/
+
+"None" = "なし";
+"Everyday" = "毎日";
+"Weekday" = "平日";
+"Weekend" = "週末";
+"Sun" = "日";
+"Mon" = "月";
+"Tue" = "火";
+"Wed" = "水";
+"Thu" = "木";
+"Fri" = "金";
+"Sat" = "土";
+"Check" = "確認";
+"Application Start" = "アプリを起動";
+"Service is not available for Twitter" = "Twitterが有効ではありません";
+"No user selected" = "ユーザーが選択されていません";
+"Login failed" = "ログインに失敗しました";
+"Message from %@" = "%@からのメッセージです";
+"Remove Timer" = "タイマーを削除";
+"WARNING !" = "警告 !";
+"Please input 'Repeat'" = "繰り返しを入力してください";
+"Please set up twitter on this app." = "このアプリケーションのTwitterを設定してください";
+"Sending ..." = "送信中 ...";
+"FAILED !" = "失敗 !";
+"You've just failed posting to twitter because of [%@]." = "以下の理由で失敗しました[%@].";
+"SUCCESS !" = "成功 !";
+"You've just succeeded posting to twitter." = "Twitterのメッセージ送信に成功しました";
+"Send Test & Save Data" = "テスト送信 & データ保存";
+"Please select account" = "アカウントを選択してください";
+"Please write recipient username" = "受取人を入力してください";
+"Current Location:\n" = "現在地:\n";
+"http://maps.google.co.jp/maps?q=%f,%f&hl=en" = "http://maps.google.co.jp/maps?q=%f,%f&hl=ja";
+"Message" = "メッセージ";
+"Failed to schedule local notification." = "ローカル通知の登録に失敗しました";
+"Default" = "デフォルト";
+"Alarm" = "アラーム";
+"Japanese" = "和風";
+"Morning" = "朝";
+"Notification" = "お知らせ";
+"Something" = "何か";

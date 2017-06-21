@@ -1,0 +1,124 @@
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "4Lm-i6-F1h"; */
+"4Lm-i6-F1h.text" = "Label";
+
+/* Class = "IBUILabel"; text = "Version"; ObjectID = "9x9-wl-WCc"; */
+"9x9-wl-WCc.text" = "バージョン";
+
+/* Class = "IBUITextView"; text = "The MIT License (MIT)\n\nCopyright (c) 2013 Grouper, Inc\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in\nall copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN\nTHE SOFTWARE."; ObjectID = "CY0-uf-YPT"; */
+"CY0-uf-YPT.text" = "The MIT License (MIT)\n\nCopyright (c) 2013 Grouper, Inc\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in\nall copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN\nTHE SOFTWARE.";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "Daw-RQ-uBE"; */
+"Daw-RQ-uBE.text" = "Label";
+
+/* Class = "IBUINavigationItem"; title = "Edit"; ObjectID = "Dkl-Qz-gSF"; */
+//"Dkl-Qz-gSF.title" = "Edit";
+"Dkl-Qz-gSF.title" = "タイマー編集";
+
+/* Class = "IBUILabel"; text = "Every Monday"; ObjectID = "Duu-xU-e1q"; */
+//"Duu-xU-e1q.text" = "Every Monday";
+"Duu-xU-e1q.text" = "毎週　月曜日";
+
+/* Class = "IBUITableViewSection"; headerTitle = "FlatUIKit"; ObjectID = "E0f-7p-1xD"; */
+"E0f-7p-1xD.headerTitle" = "FlatUIKit";
+
+/* Class = "IBUILabel"; text = "Every Tuesday"; ObjectID = "FGE-Za-s3H"; */
+"FGE-Za-s3H.text" = "毎週　火曜日";
+
+/* Class = "IBUILabel"; text = "Every Thursday"; ObjectID = "Fob-SR-N0D"; */
+"Fob-SR-N0D.text" = "毎週　木曜日";
+
+/* Class = "IBUILabel"; text = " "; ObjectID = "GGV-vI-2Qe"; */
+"GGV-vI-2Qe.text" = " ";
+
+/* Class = "IBUILabel"; text = "Detail"; ObjectID = "LKV-Qx-l0F"; */
+"LKV-Qx-l0F.text" = "Detail";
+
+/* Class = "IBUINavigationItem"; title = "Repeat"; ObjectID = "NKI-Q1-boj"; */
+"NKI-Q1-boj.title" = "繰り返し";
+
+/* Class = "IBUILabel"; text = "Twitter"; ObjectID = "PrX-7X-QD5"; */
+"PrX-7X-QD5.text" = "Twitter";
+
+/* Class = "IBUILabel"; text = "Repeat"; ObjectID = "Qgi-Py-LLG"; */
+"Qgi-Py-LLG.text" = "繰り返し";
+
+/* Class = "IBUILabel"; text = "Title"; ObjectID = "RMV-sJ-z1P"; */
+"RMV-sJ-z1P.text" = "Title";
+
+/* Class = "IBUINavigationItem"; title = "Licenses"; ObjectID = "RrC-qS-sRR"; */
+"RrC-qS-sRR.title" = "ライセンス";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "UE1-t7-yYH"; */
+"UE1-t7-yYH.text" = "Label";
+
+/* Class = "IBUITextField"; placeholder = "username"; ObjectID = "WzG-Ux-RRc"; */
+"WzG-Ux-RRc.placeholder" = "ユーザー名";
+
+/* Class = "IBUITableViewSection"; headerTitle = "Message setting"; ObjectID = "YHu-2V-BVE"; */
+"YHu-2V-BVE.headerTitle" = "メッセージ設定";
+
+/* Class = "IBUINavigationItem"; title = "Twitter"; ObjectID = "Z3v-Dj-kk3"; */
+"Z3v-Dj-kk3.title" = "Twitter";
+
+/* Class = "IBUILabel"; text = "Licenses"; ObjectID = "ZWw-OR-VsP"; */
+"ZWw-OR-VsP.text" = "ライセンス";
+
+/* Class = "IBUILabel"; text = "Detail"; ObjectID = "a2s-Ft-01M"; */
+"a2s-Ft-01M.text" = "Detail";
+
+/* Class = "IBUITableViewSection"; headerTitle = "Infomation"; ObjectID = "fMi-tb-1OC"; */
+"fMi-tb-1OC.headerTitle" = "情報";
+
+/* Class = "IBUINavigationItem"; title = "Settings"; ObjectID = "fvm-6C-rUX"; */
+"fvm-6C-rUX.title" = "設定";
+
+/* Class = "IBUILabel"; text = "Every Wednesday"; ObjectID = "itq-ff-gea"; */
+"itq-ff-gea.text" = "毎週　水曜日";
+
+/* Class = "IBUILabel"; text = "to :"; ObjectID = "kaM-Qx-HWe"; */
+"kaM-Qx-HWe.text" = "to :";
+
+/* Class = "IBUILabel"; text = "12:34"; ObjectID = "ksn-J4-U7N"; */
+"ksn-J4-U7N.text" = "12:34";
+
+/* Class = "IBUILabel"; text = "Every Saturday"; ObjectID = "kwy-GK-a4M"; */
+"kwy-GK-a4M.text" = "毎週　土曜日";
+
+/* Class = "IBUITextView"; text = "Copyright (c) 2011 Sam Vermette\n\nPermission is hereby granted, free of charge, to any person\nobtaining a copy of this software and associated documentation\nfiles (the \"Software\"), to deal in the Software without\nrestriction, including without limitation the rights to use,\ncopy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the\nSoftware is furnished to do so, subject to the following\nconditions:\n\nThe above copyright notice and this permission notice shall be\nincluded in all copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND,\nEXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES\nOF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND\nNONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT\nHOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,\nWHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING\nFROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR\nOTHER DEALINGS IN THE SOFTWARE.\n\nA different license may apply to other ressources included in this package, \nincluding Joseph Wain's Glyphish Icons. Please consult their \nrespective headers for the terms of their individual licenses."; ObjectID = "lAF-IY-y29"; */
+"lAF-IY-y29.text" = "Copyright (c) 2011 Sam Vermette\n\nPermission is hereby granted, free of charge, to any person\nobtaining a copy of this software and associated documentation\nfiles (the \"Software\"), to deal in the Software without\nrestriction, including without limitation the rights to use,\ncopy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the\nSoftware is furnished to do so, subject to the following\nconditions:\n\nThe above copyright notice and this permission notice shall be\nincluded in all copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND,\nEXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES\nOF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND\nNONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT\nHOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,\nWHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING\nFROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR\nOTHER DEALINGS IN THE SOFTWARE.\n\nA different license may apply to other ressources included in this package, \nincluding Joseph Wain's Glyphish Icons. Please consult their \nrespective headers for the terms of their individual licenses.";
+
+/* Class = "IBUILabel"; text = "Every Friday"; ObjectID = "mqP-4D-4hf"; */
+"mqP-4D-4hf.text" = "毎週　金曜日";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "oc3-vN-Chj"; */
+"oc3-vN-Chj.text" = "Label";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "qz3-3u-J3p"; */
+"qz3-3u-J3p.text" = "Label";
+
+/* Class = "IBUINavigationItem"; title = "Timer"; ObjectID = "tVA-pi-quz"; */
+"tVA-pi-quz.title" = "タイマー";
+
+/* Class = "IBUILabel"; text = "Every Sunday"; ObjectID = "voD-AP-y7C"; */
+"voD-AP-y7C.text" = "毎週　日曜日";
+
+/* Class = "IBUITableViewSection"; headerTitle = " "; ObjectID = "w5r-F1-6zD"; */
+"w5r-F1-6zD.headerTitle" = " ";
+
+/* Class = "IBUITableViewSection"; headerTitle = "SVProgressHUD"; ObjectID = "xo0-3f-6a7"; */
+"xo0-3f-6a7.headerTitle" = "SVProgressHUD";
+
+"ZSC-av-eHl.text" = "サウンド";
+
+"LDp-mo-S9f.title" = "サウンド";
+
+"LWE-dO-6zx.text" = "デフォルト";
+"VXy-Cm-bD3.text" = "アラーム";
+"TRD-ky-rBR.text" = "和風";
+"6SW-Og-uE5.text" = "朝";
+"Kfp-ys-Sxu.text" = "お知らせ";
+"MYO-Ik-K5d.text" = "何か";
+"HSQ-zY-cid.text" = "現在地情報を追加";
+"" = "";
+"" = "";
